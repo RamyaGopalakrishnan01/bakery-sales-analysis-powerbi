@@ -88,7 +88,7 @@ The dashboard enables users to explore sales data through interactive visualizat
 **Ramya Gopalakrishnan**
 
 - 🎓 Final Year B.Tech Information Technology
-- 💼 LinkedIn: https://linkedin.com/in/ramya-gopalakrishnan1738
+- 💼 LinkedIn: https://linkedin.com/in/ramya-gopalakrishnan1736
 - 💻 GitHub: https://github.com/RamyaGopalakrishnan01
 
 ---
