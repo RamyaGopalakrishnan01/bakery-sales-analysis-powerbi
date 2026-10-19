@@ -69,22 +69,6 @@ The dashboard enables users to explore sales data through interactive visualizat
 
 ---
 
-## 📸 Dashboard Preview
-
-### Dashboard Overview
-
-> *(Add your dashboard screenshot here)*
-
-Example:
-
-```
-![Dashboard](screenshots/dashboard-overview.png)
-```
-
-You can also add multiple screenshots.
-
----
-
 ## 🚀 Skills Demonstrated
 
 - Data Analysis
@@ -104,8 +88,7 @@ You can also add multiple screenshots.
 **Ramya Gopalakrishnan**
 
 - 🎓 Final Year B.Tech Information Technology
-- 🌐 Portfolio: https://your-portfolio-link
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 💼 LinkedIn: https://linkedin.com/in/ramya-gopalakrishnan1738
 - 💻 GitHub: https://github.com/RamyaGopalakrishnan01
 
 ---
